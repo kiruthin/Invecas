@@ -9,3 +9,6 @@ This class utilitizes HashMap maintain a list of key value pairs. The input stri
 
 This class tests whether a string is a palindrome. A palindrome is a word or phrase that is spelled exactly the same forwards or backwards. In our case we ignore non-alphanumeric characters and consider lower and upper case characters to be identical. For this solution we iterate through the individual characters of the string and check for any inconsistencies. On a worst case this should be O(n/2).
 
+
+In both classes, I have included unit tests for verification. Thanks!
+
